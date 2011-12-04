@@ -1,0 +1,1 @@
+<iframe src="tabs.php" width="800" height="900"></iframe>
